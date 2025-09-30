@@ -8,7 +8,7 @@ job:
     - dependency-type: direct
       update-type: all
   source:
-    provider: github
+    providjber: github
     repo: dependabot/example-cli-usage
     # looks absolute, but this is relative to the root of the repo
     directory: /bundler-example
